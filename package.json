@@ -1,7 +1,7 @@
 {
-  "name": "inky",
+  "name": "inky-fix-foundation-emails",
   "version": "1.3.7",
-  "description": "Convert a simple HTML syntax into tables compatible with Foundation for Emails.",
+  "description": "inky with minor adjustment to fix row issue from foundation emails",
   "author": "ZURB <foundation@zurb.com> (http://foundation.zurb.com)",
   "keywords": [
     "ink",
@@ -35,7 +35,7 @@
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
   },
-  "repository": "https://github.com/zurb/inky.git",
+  "repository": "https://github.com/drobnikmi/inky.git",
   "bugs": "https://github.com/zurb/inky/issues",
   "license": "MIT"
 }
